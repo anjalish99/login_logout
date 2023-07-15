@@ -1,0 +1,21 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#login-container, #welcome-container {
+    display: none;
+}
+
+input, button {
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+}
+body{
+   background-image:url(login.jpeg);
+}
